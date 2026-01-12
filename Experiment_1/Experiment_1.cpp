@@ -78,3 +78,10 @@ int main() {
 
     return 0;
 }
+
+
+// Recurance Relations - 3T(n / 2) + nlogn
+// Time complexity - O(nlog(2)3)
+
+// Master theorem is a technique to get the time complexity of a particular algorithm based on recurrance relation
+
